@@ -176,12 +176,6 @@
 ---
 
 ## 说明
-
-### 开发备注（样式）
-
-- 多主题 Loading 样式入口：`assets/styles/theme-loading.scss` → `assets/styles/theme-loading/`
-- Sass 已改用 `@use` 聚合分文件（不再使用已弃用的 `@import`），避免 Vite 编译时的 deprecation 警告
-
 ### 在线演示地址:<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a>
 
 
