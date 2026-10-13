@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 AI论文系统 · 学成写作</h1>
   <p><b>AI论文生成、AI论文写作，一键论文生成 · 开题报告 / 文献综述 / 无限改稿 / 格式排版 / 降重降AIGC / 答辩PPT / 科研工具</b></p>
-  <p>🌐 在线演示：<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a></p>
+  <p>🌐 在线体验：<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a></p>
   <p>面向教育培训机构、流量主、创业者的 <b>OEM 白标 / 商户合作加盟</b> 解决方案：自有品牌上线、套餐灵活定价，助力快速开展 AI 学术写作业务。</p>
   <br />
   <h3>💥💥💥 一键免费部署 OEM 系统</h3>
@@ -16,7 +16,7 @@
 
 ---
 
-# 在线演示地址：<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a>
+# 在线体验地址：<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a>
 
 ## 系统截图
 
@@ -176,7 +176,7 @@
 ---
 
 ## 说明
-### 在线演示地址:<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a>
+### 在线体验地址:<a href="https://www.openlun.com" target="_blank"><b>www.openlun.com</b></a>
 
 
 
